@@ -204,9 +204,4 @@ See `backend/README.md` for detailed backend documentation.
 - You can use any Angular libraries or styling approaches you prefer (CSS, SCSS, Tailwind, etc.)
 - The deadline for completion is 1-2 days from when you receive this assessment
 
-## Questions?
-
-If you have any questions about the assessment, please don't hesitate to reach out.
-
-Good luck!
 
